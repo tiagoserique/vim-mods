@@ -5,7 +5,7 @@ execute pathogen#infect()
 colorscheme Tomorrow-Night-Eighties
 
 "tamanho da indentacao
-set tabstop=2
+set tabstop=4
 
 "identifica o tipo de arquivo e indenta
 filetype plugin indent on
@@ -14,7 +14,7 @@ filetype plugin indent on
 syntax on
 
 "deixar coerente indentacao com tamanho de TAB
-set shiftwidth=2
+set shiftwidth=4
 
 "comportamento usual do backspace
 set backspace=2
@@ -35,4 +35,4 @@ set hlsearch
 set expandtab
 
 "backspace respeita indentacao
-set softtabstop=2
+set softtabstop=4
