@@ -1,3 +1,3 @@
 # Cuidado!
 
-O script pode substituir modificações já feitas ao ser executado 
+Ao ser executado o script substitui modificações já feitas 
