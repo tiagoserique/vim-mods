@@ -17,7 +17,7 @@ syntax on
 set shiftwidth=4
 
 "comportamento usual do backspace
-set backspace=2
+set backspace=eol,start,indent
 
 "numera as linhas
 set number
@@ -30,6 +30,12 @@ set incsearch
 
 "destaque nos resultados
 set hlsearch
+
+"salva na codificacao desejada
+"set fileencoding=iso-8859-1
+
+"vizualizar na codificacao desejada
+"set encoding=iso-8859-1
 
 "trocar tab por espacos
 set expandtab
