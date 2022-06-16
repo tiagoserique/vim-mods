@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# It's necessary to add the submodules and push them before running this script. 
+
 pushd ~
 	if [ -d .vim ] && [ -a .vimrc ]
 	then
