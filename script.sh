@@ -27,6 +27,6 @@ mv script.sh ~/
 
 cd ~
 
-rm -rf $CAMINHO
+rm -r $CAMINHO
 
 rm $0

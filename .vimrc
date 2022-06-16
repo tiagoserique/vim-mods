@@ -2,7 +2,8 @@
 execute pathogen#infect()
 
 "esquema de cores escuro
-colorscheme Tomorrow-Night-Eighties
+"colorscheme Tomorrow-Night-Eighties
+colorscheme dracula
 
 "identifica o tipo de arquivo e indenta
 filetype plugin indent on
